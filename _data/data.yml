@@ -458,17 +458,17 @@ certificate:
     - name: GE-GR-002 German Language Advanced Levels
       issuer: Luxoft
       date: 2022-02
-      link: '#'
+      link: 'https://drive.google.com/file/d/1aGQQNBmXvbRz6lFnrKPx719t846dtW0i/view'
 
     - name: GE-GR-001 German Language St. Pete September 21
       issuer: Luxoft
       date: 2022-01
-      link: '#'
+      link: 'https://drive.google.com/file/d/1aGQQNBmXvbRz6lFnrKPx719t846dtW0i/view'
 
     - name: SS-008 Effective Preparation of Presentations
       issuer: Luxoft
       date: 2021-11
-      link: '#'
+      link: 'https://drive.google.com/file/d/1ku-t_vmjeUN_FQWvF11wMV2L3nxcGIcU/view'
 
     - name: AUT-031 Portable Media Usage in ALOB
       issuer: Luxoft
@@ -483,7 +483,7 @@ certificate:
     - name: GE-GR-001 German Language St. Pete February 21
       issuer: Luxoft
       date: 2021-06
-      link: '#'
+      link: 'https://drive.google.com/file/d/1HCZCDLNbulUBhyJrOgGX-U7puz2xoH-H/view'
 
     - name: Practical Usage of WSL in Windows 10
       issuer: Luxoft
@@ -498,17 +498,17 @@ certificate:
     - name: AUT-016 Introduction to Functional Safety as per ISO 26262
       issuer: Luxoft
       date: 2021-03
-      link: '#'
+      link: 'https://drive.google.com/file/d/1DbEhFOlK5JvQvPSNC3o9BvEM_JhvjJ36/view'
 
     - name: ARC-010 Introduction to Software System Architecture
       issuer: Luxoft
       date: 2021-02
-      link: '#'
+      link: 'https://drive.google.com/file/d/1IYeG2oQZQ6GAizIgn75F6bSzv6l6sSG0/view'
 
     - name: GE-GR-001 German Language in St. Pete (August 2020)
       issuer: Luxoft
       date: 2020-10
-      link: '#'
+      link: 'https://drive.google.com/file/d/1gcQvp-uwCfCqzaKgEw8yLWyKreQImIud/view'
 
     - name: AUT-006 OT Automotive SPICE/ ASPICE and Standard ALOB Process Overview (ALOB DOMS)
       issuer: Luxoft
@@ -533,7 +533,7 @@ certificate:
     - name: GE-GR-001 German Language SPb, October 2019
       issuer: Luxoft
       date: 2019-10
-      link: '#'
+      link: 'https://drive.google.com/file/d/1bnRqTyvM9UMpY9qrUYSXcoCpbIzz-oLX/view'
 
     - name: German language (SPb May, 2019)
       issuer: Luxoft
@@ -543,7 +543,7 @@ certificate:
     - name: ENG-001-General English Course Native Speaker St. Petersburg (February 2019)
       issuer: Luxoft
       date: 2019-06
-      link: '#'
+      link: 'https://drive.google.com/file/d/1FGJQ98ItRG7we8su609PumeLKjdV3Imw/view'
 
     - name: German language (SPb 2019)
       issuer: Luxoft
