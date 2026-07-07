@@ -255,7 +255,7 @@ education:
 
 certificate:
   show: true
-  order: 6
+  order: 12
   title: Certificates & Training
   description: |
     Specialized engineering courses, architecture frameworks, and domain-specific compliance standards.
@@ -698,7 +698,7 @@ organization:
 
 language:
   show: true
-  order: 11
+  order: 6
   title: Languages
   description: |
     Language proficiency levels.
@@ -714,7 +714,7 @@ language:
 
 interest:
   show: true
-  order: 12
+  order: 11
   title: Interests
   description: |
     Personal tech-related fields of exploration.
