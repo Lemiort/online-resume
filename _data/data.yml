@@ -258,76 +258,302 @@ certificate:
   order: 6
   title: Certificates & Training
   description: |
-    Specialized courses and professional development records.
+    Specialized engineering courses, architecture frameworks, and domain-specific compliance standards.
   items:
     - name: Unreal Engine - A Complete Guide to C++ Development
-      issuer: Online Training
-      date: 2026
-      link:
+      issuer: Udemy
+      date: 2026-05
+      link: 'https://www.udemy.com/certificate/UC-d8936409-0ebb-4568-bfbe-0935c2733b93/'
+
     - name: C-008 C++ Best Practices
-      issuer: Corporate Education
-      date: 2026
-      link:
+      issuer: Luxoft
+      date: 2026-04
+      link: '#'
+
     - name: Qt 6 Core Beginners with C++
-      issuer: Online Training
-      date: 2026
-      link:
+      issuer: Udemy
+      date: 2026-02
+      link: '#'
+
+    - name: AI Insights webinar: Meet Rob 2.0 DXC tool for faster sprints and safer code
+      issuer: Luxoft
+      date: 2026-01
+      link: '#'
+
+    - name: Effective Communication in the Workplace
+      issuer: Luxoft
+      date: 2026-01
+      link: '#'
+
+    - name: Intermediate English Course: Develop Your Grammar and Skills
+      issuer: Luxoft
+      date: 2026-01
+      link: '#'
+
+    - name: AI Insights - Accelerating Software Development with Windsurf
+      issuer: Luxoft
+      date: 2026-01
+      link: '#'
+
+    - name: TypeScript from Scratch - Full Course and Design Patterns
+      issuer: Udemy
+      date: 2026-01
+      link: '#'
+
     - name: Learn the Vulkan API with C++
-      issuer: Technical Academy
-      date: 2025
-      link:
+      issuer: Udemy
+      date: 2025-12
+      link: 'https://www.udemy.com/certificate/UC-8785374d-eaaf-4906-9664-cb39ce644772/'
+
+    - name: AI Insights - AI Ethics and Compliance Q&A session
+      issuer: Luxoft
+      date: 2025-11
+      link: '#'
+
     - name: Go - The Complete Developer's Guide (Golang)
-      issuer: Online Training
-      date: 2025
-      link:
+      issuer: Udemy
+      date: 2025-10
+      link: '#'
+
+    - name: Machine Learning for Absolute Beginners - Level 1
+      issuer: Udemy
+      date: 2025-10
+      link: '#'
+
     - name: Rust - The Complete Developer's Guide
-      issuer: Online Training
-      date: 2025
-      link:
-    - name: The Complete Guide to Becoming a Software Architect
-      issuer: Architecture Academy
-      date: 2025
-      link:
+      issuer: Udemy
+      date: 2025-09
+      link: '#'
+    
+    - name: AUT-031 Portable Media Usage in ALOB
+      issuer: Udemy
+      date: 2025-08
+      link: '#'
+
+    - name: Quick Start to Modern C++ for Programmers
+      issuer: Luxoft
+      date: 2025-07
+      link: '#'
+
+    - name: AUT-035 VW Group Guideline for Mobile and Tele-Work
+      issuer: Luxoft
+      date: 2025-06
+      link: '#'
+
+    - name: AUT-034 Prototype Protection Training (ALOB)
+      issuer: Luxoft
+      date: 2025-04
+      link: '#'
+
+    - name: Software Architecture & System Design Practical Case Studies
+      issuer: Udemy
+      date: 2025-02
+      link: 'https://www.udemy.com/certificate/UC-5464ab9d-d4de-4fad-9ab2-c29e3aff643d/'
+
+    - name: SOLID Principles - Introducing Software Architecture & Design
+      issuer: Udemy
+      date: 2025-02
+      link: 'https://www.udemy.com/certificate/UC-7bbdbfcc-23ab-4e00-a14c-d3ac5f6aca6c/'
+
     - name: Software Architecture & Design of Modern Large Scale Systems
-      issuer: Tech Training
-      date: 2025
-      link:
-    - name: SOLID Principles & Software Design Patterns
-      issuer: Architecture Academy
-      date: 2025
-      link:
+      issuer: Udemy
+      date: 2025-02
+      link: 'https://www.udemy.com/certificate/UC-7295c6c9-be1f-4cd4-bc12-a3f9ace7ee07/'
+
+    - name: The Complete Guide to Becoming a Software Architect
+      issuer: Udemy
+      date: 2025-02
+      link: 'https://www.udemy.com/certificate/UC-11139e84-7102-43c7-b909-8920104245d8/'
+
+    - name: Software Design by SOLID and Connascence Principles
+      issuer: Udemy
+      date: 2025-02
+      link: 'https://www.udemy.com/certificate/UC-7243b8ca-672f-4517-a344-b77b8ecf3620/'
+
+    - name: Software Architecture - Meta and SOLID Principles in OOP
+      issuer: Udemy
+      date: 2025-02
+      link: 'https://www.udemy.com/certificate/UC-6174eeca-9abb-4c3f-832f-d6835aa9f303/'
+
+    - name: AUT-031 Portable Media Usage in ALOB
+      issuer: Luxoft
+      date: 2024-08
+      link: '#'
+
+    - name: AUT-035 VWG/CARIAD Guideline for Mobile and Tele-Work
+      issuer: Luxoft
+      date: 2024-06
+      link: '#'
+
     - name: ARC-001 Key Concepts of Software Architecture
-      issuer: Corporate Education
-      date: 2024
-      link:
+      issuer: Luxoft
+      date: 2024-04
+      link: '#'
+  
+    - name: AUT-034 Prototype Protection Training (ALOB)
+      issuer: Luxoft
+      date: 2024-04
+      link: '#'
+
     - name: AUT-037 Mandatory Automotive Cybersecurity Awareness
-      issuer: Compliance Training
-      date: 2024
-      link:
+      issuer: Luxoft
+      date: 2024-02
+      link: '#'
+
+    - name: Algorithms and Data Structures
+      issuer: Udemy
+      date: 2024-01
+      link: 'https://www.udemy.com/certificate/UC-d15bcb4a-7644-480b-8353-0d66124a1118/'
+
+    - name: AUT-031 Portable Media Usage in ALOB
+      issuer: Luxoft
+      date: 2023-08
+      link: '#'
+
+    - name: AUT-035 VWG/CARIAD Guideline for Mobile and Tele-Work
+      issuer: Luxoft
+      date: 2023-08
+      link: '#'
+
+    - name: AUT-034 Prototype Protection Training (ALOB)
+      issuer: Luxoft
+      date: 2023-04
+      link: '#'
+
+    - name: Functional Programming using C++
+      issuer: Udemy
+      date: 2023-03
+      link: 'https://www.udemy.com/certificate/UC-41192892-2ee3-4b79-b9ab-298e7d97b87d/'
+
     - name: AUT-036 Adaptive AUTOSAR Advanced
-      issuer: Automotive Academy
-      date: 2023
-      link:
+      issuer: Luxoft
+      date: 2023-01
+      link: '#'
+
+    - name: SR-GR-001 Serbian Language Basic Level
+      issuer: Luxoft
+      date: 2022-10
+      link: '#'
+
     - name: AUT-053 Introduction to QNX RTOS
-      issuer: Tech Training
-      date: 2022
-      link:
+      issuer: Luxoft
+      date: 2022-09
+      link: '#'
+
+    - name: AUT-035 VWG/CARIAD Guideline for Mobile and Tele-Work
+      issuer: Luxoft
+      date: 2022-08
+      link: '#'
+
+    - name: AUT-034 Prototype Protection Training (ALOB)
+      issuer: Luxoft
+      date: 2022-04
+      link: '#'
+
+    - name: SS-130_SL Feedback Techniques for Team Members
+      issuer: Luxoft
+      date: 2022-03
+      link: '#'
+
+    - name: GE-GR-002 German Language Advanced Levels
+      issuer: Luxoft
+      date: 2022-02
+      link: '#'
+
+    - name: GE-GR-001 German Language St. Pete September 21
+      issuer: Luxoft
+      date: 2022-01
+      link: '#'
+
+    - name: SS-008 Effective Preparation of Presentations
+      issuer: Luxoft
+      date: 2021-11
+      link: '#'
+
+    - name: AUT-031 Portable Media Usage in ALOB
+      issuer: Luxoft
+      date: 2021-11
+      link: '#'
+
+    - name: GE-GR-002 German Language Advanced Levels
+      issuer: Luxoft
+      date: 2021-07
+      link: '#'
+
+    - name: GE-GR-001 German Language St. Pete February 21
+      issuer: Luxoft
+      date: 2021-06
+      link: '#'
+
+    - name: Practical Usage of WSL in Windows 10
+      issuer: Luxoft
+      date: 2021-05
+      link: '#'
+
+    - name: SS-154 Understanding Unconscious Bias
+      issuer: Luxoft
+      date: 2021-03
+      link: '#'
+
     - name: AUT-016 Introduction to Functional Safety as per ISO 26262
-      issuer: Standards Training
-      date: 2021
-      link:
+      issuer: Luxoft
+      date: 2021-03
+      link: '#'
+
     - name: ARC-010 Introduction to Software System Architecture
-      issuer: Corporate Education
-      date: 2021
-      link:
-    - name: AUT-006 Automotive SPICE / ASPICE Process Overview
-      issuer: Compliance Training
-      date: 2020
-      link:
+      issuer: Luxoft
+      date: 2021-02
+      link: '#'
+
+    - name: GE-GR-001 German Language in St. Pete (August 2020)
+      issuer: Luxoft
+      date: 2020-10
+      link: '#'
+
+    - name: AUT-006 OT Automotive SPICE/ ASPICE and Standard ALOB Process Overview (ALOB DOMS)
+      issuer: Luxoft
+      date: 2020-07
+      link: '#'
+
+    - name: JDD conference
+      issuer: Luxoft
+      date: 2020-07
+      link: '#'
+
+    - name: GE-GR-001 German Language in St. Pete (April 2020)
+      issuer: Luxoft
+      date: 2020-06
+      link: '#'
+
+    - name: LUX-068 Respectful and Constructive Communication
+      issuer: Luxoft
+      date: 2019-12
+      link: '#'
+
+    - name: GE-GR-001 German Language SPb, October 2019
+      issuer: Luxoft
+      date: 2019-10
+      link: '#'
+
+    - name: German language (SPb May, 2019)
+      issuer: Luxoft
+      date: 2019-08
+      link: '#'
+
+    - name: ENG-001-General English Course Native Speaker St. Petersburg (February 2019)
+      issuer: Luxoft
+      date: 2019-06
+      link: '#'
+
+    - name: German language (SPb 2019)
+      issuer: Luxoft
+      date: 2019-04
+      link: '#'
+
     - name: Switch from C++11 to C++14
-      issuer: Technical Training
-      date: 2018
-      link:
+      issuer: Luxoft
+      date: 2018-12
+      link: '#'
 
 publication:
   show: false
