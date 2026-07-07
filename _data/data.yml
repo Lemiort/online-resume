@@ -281,7 +281,7 @@ certificate:
       description: |
         Beginner-level course on Qt 6 framework, emphasizing GUI development and event-driven programming in C++.
 
-    - name: AI Insights webinar: Meet Rob 2.0 DXC tool for faster sprints and safer code
+    - name: AI Insights webinar- Meet Rob 2.0 DXC tool for faster sprints and safer code
       issuer: Luxoft
       date: 2026-01
       link: '#'
@@ -295,7 +295,7 @@ certificate:
       description: |
         Training focused on improving communication skills in professional settings, including active listening and clear articulation.
 
-    - name: Intermediate English Course: Develop Your Grammar and Skills
+    - name: Intermediate English Course - Develop Your Grammar and Skills
       issuer: Luxoft
       date: 2026-01
       link: '#'
