@@ -114,7 +114,7 @@ experience:
     Professional work history and key technical milestones.
   items:
     - company: Luxoft
-      link: '#'
+      link: 'https://www.luxoft.com/'
       tags: Full-time
       date: 2023.01 - 2026.06
       role: Senior Software Developer
@@ -126,7 +126,7 @@ experience:
         - Utilize specialized ecosystems for Adaptive AUTOSAR applications and perform extensive static code analysis.
 
     - company: Luxoft
-      link: '#'
+      link: 'https://www.luxoft.com/'
       tags: Full-time
       date: 2021.09 - 2023.01
       role: Software Developer (Core Diagnostics & Architecture)
@@ -139,7 +139,7 @@ experience:
         - Develop comprehensive unit-test suites and mock-based frameworks to simulate system-level calls and error scenarios.
 
     - company: Luxoft
-      link: '#'
+      link: 'https://www.luxoft.com/'
       tags: Full-time
       date: 2018.07 - 2021.09
       role: Software Developer (Embedded Systems & CI/CD Infrastructure)
@@ -152,7 +152,7 @@ experience:
         - Develop internal Python scripting tools to automate release checklist verification and artifact generation.
 
     - company: State Research Institute of Applied Problems
-      link: '#'
+      link:
       tags: Full-time
       date: 2014.11 - 2018.07
       role: Software Engineer
@@ -199,7 +199,7 @@ skill:
     - name: C++ (C++11/14/17)
       level: 5
     - name: Rust
-      level: 3
+      level: 4
     - name: Software Architecture (arc42)
       level: 4
     - name: QNX & Embedded Linux
@@ -240,7 +240,7 @@ education:
     Academic background in computer systems engineering.
   items:
     - institution: Saint Petersburg State Electrotechnical University "LETI"
-      link: '#'
+      link: https://etu.ru/en/study/bachelors-degree/information-systems-and-technologies
       date: 2016 - 2018
       major: Computer Science and Computer Engineering
       degree: Master's degree
@@ -248,7 +248,7 @@ education:
         Focused on advanced computing systems and software engineering principles.
 
     - institution: Saint Petersburg State Electrotechnical University "LETI"
-      link: '#'
+      link: https://etu.ru/en/study/faculties/faculty-of-computing-technologies-and-informatics/
       date: 2012 - 2016
       major: Computer Information Systems
       degree: Bachelor's degree
@@ -270,49 +270,49 @@ certificate:
     - name: C-008 C++ Best Practices
       issuer: Luxoft
       date: 2026-04
-      link: '#'
+      link:
       description: |
         In-depth training on modern C++ best practices, focusing on code quality, maintainability, and performance.
 
     - name: Qt 6 Core Beginners with C++
       issuer: Udemy
       date: 2026-02
-      link: '#'
+      link:
       description: |
         Beginner-level course on Qt 6 framework, emphasizing GUI development and event-driven programming in C++.
 
     - name: AI Insights webinar- Meet Rob 2.0 DXC tool for faster sprints and safer code
       issuer: Luxoft
       date: 2026-01
-      link: '#'
+      link:
       description: |
         Webinar on the Rob 2.0 DXC tool, demonstrating its capabilities in accelerating development sprints and enhancing code safety.
 
     - name: Effective Communication in the Workplace
       issuer: Luxoft
       date: 2026-01
-      link: '#'
+      link:
       description: |
         Training focused on improving communication skills in professional settings, including active listening and clear articulation.
 
     - name: Intermediate English Course - Develop Your Grammar and Skills
       issuer: Luxoft
       date: 2026-01
-      link: '#'
+      link:
       description: |
         Intermediate-level English course aimed at enhancing grammar proficiency and overall language skills for professional communication.
 
     - name: AI Insights - Accelerating Software Development with Windsurf
       issuer: Luxoft
       date: 2026-01
-      link: '#'
+      link:
       description: |
         Insights into the Windsurf platform, exploring its role in accelerating software development processes and improving team collaboration.
 
     - name: TypeScript from Scratch - Full Course and Design Patterns
       issuer: Udemy
       date: 2026-01
-      link: '#'
+      link:
       description: |
         Comprehensive course on TypeScript, covering fundamental concepts, advanced features, and design patterns for building scalable applications.
 
@@ -326,56 +326,56 @@ certificate:
     - name: AI Insights - AI Ethics and Compliance Q&A session
       issuer: Luxoft
       date: 2025-11
-      link: '#'
+      link:
       description: |
         Q&A session addressing ethical considerations and compliance requirements in AI development, emphasizing responsible AI practices.
 
     - name: Go - The Complete Developer's Guide (Golang)
       issuer: Udemy
       date: 2025-10
-      link: '#'
+      link:
       description: |
         Comprehensive course on Go programming language, covering syntax, concurrency, and building web applications.
 
     - name: Machine Learning for Absolute Beginners - Level 1
       issuer: Udemy
       date: 2025-10
-      link: '#'
+      link:
       description: |
         Introductory course on machine learning concepts, algorithms, and practical applications for beginners.
 
     - name: Rust - The Complete Developer's Guide
       issuer: Udemy
       date: 2025-09
-      link: '#'
+      link:
       description: |
         Complete guide to Rust programming language, covering fundamentals, advanced features, and building efficient systems.
     
     - name: AUT-031 Portable Media Usage in ALOB
       issuer: Udemy
       date: 2025-08
-      link: '#'
+      link:
       description: |
         Training on secure handling and usage of portable media within the Automotive Logistics and Operations Base (ALOB) environment.
 
     - name: Quick Start to Modern C++ for Programmers
       issuer: Luxoft
       date: 2025-07
-      link: '#'
+      link:
       description: |
         Accelerated course on modern C++ features and best practices, aimed at experienced programmers transitioning to C++.
 
     - name: AUT-035 VW Group Guideline for Mobile and Tele-Work
       issuer: Luxoft
       date: 2025-06
-      link: '#'
+      link:
       description: |
         Training on the Volkswagen Group's guidelines for secure mobile and teleworking practices, focusing on data protection and compliance.
 
     - name: AUT-034 Prototype Protection Training (ALOB)
       issuer: Luxoft
       date: 2025-04
-      link: '#'
+      link:
       description: |
         Training on protecting prototype vehicles and related intellectual property within the Automotive Logistics and Operations Base (ALOB) framework.
 
@@ -424,35 +424,35 @@ certificate:
     - name: AUT-031 Portable Media Usage in ALOB
       issuer: Luxoft
       date: 2024-08
-      link: '#'
+      link:
       description: |
         Training on secure handling and usage of portable media within the Automotive Logistics and Operations Base (ALOB) environment.
 
     - name: AUT-035 VWG/CARIAD Guideline for Mobile and Tele-Work
       issuer: Luxoft
       date: 2024-06
-      link: '#'
+      link:
       description: |
         Training on the Volkswagen Group's guidelines for secure mobile and teleworking practices, focusing on data protection and compliance.
 
     - name: ARC-001 Key Concepts of Software Architecture
       issuer: Luxoft
       date: 2024-04
-      link: '#'
+      link:
       description: |
         Training on fundamental concepts of software architecture, including architectural patterns, design principles, and best practices for building robust systems.
   
     - name: AUT-034 Prototype Protection Training (ALOB)
       issuer: Luxoft
       date: 2024-04
-      link: '#'
+      link:
       description: |
         Training on protecting prototype vehicles and related intellectual property within the Automotive Logistics and Operations Base (ALOB) framework.
 
     - name: AUT-037 Mandatory Automotive Cybersecurity Awareness
       issuer: Luxoft
       date: 2024-02
-      link: '#'
+      link:
       description: |
         Awareness training on automotive cybersecurity, covering best practices for protecting vehicle systems and data from cyber threats.
 
@@ -466,21 +466,21 @@ certificate:
     - name: AUT-031 Portable Media Usage in ALOB
       issuer: Luxoft
       date: 2023-08
-      link: '#'
+      link:
       description: |
         Training on secure handling and usage of portable media within the Automotive Logistics and Operations Base (ALOB) environment.
 
     - name: AUT-035 VWG/CARIAD Guideline for Mobile and Tele-Work
       issuer: Luxoft
       date: 2023-08
-      link: '#'
+      link:
       description: |
         Training on the Volkswagen Group's guidelines for secure mobile and teleworking practices, focusing on data protection and compliance.
 
     - name: AUT-034 Prototype Protection Training (ALOB)
       issuer: Luxoft
       date: 2023-04
-      link: '#'
+      link:
       description: |
         Training on protecting prototype vehicles and related intellectual property within the Automotive Logistics and Operations Base (ALOB) framework.
 
@@ -494,42 +494,42 @@ certificate:
     - name: AUT-036 Adaptive AUTOSAR Advanced
       issuer: Luxoft
       date: 2023-01
-      link: '#'
+      link:
       description: |
         Advanced training on Adaptive AUTOSAR, focusing on architecture, service-oriented communication, and application development within the Adaptive AUTOSAR framework.
 
     - name: SR-GR-001 Serbian Language Basic Level
       issuer: Luxoft
       date: 2022-10
-      link: '#'
+      link:
       description: |
         Basic level course in Serbian language, covering fundamental grammar, vocabulary, and conversational skills for effective communication.
 
     - name: AUT-053 Introduction to QNX RTOS
       issuer: Luxoft
       date: 2022-09
-      link: '#'
+      link:
       description: |
         Introductory course on QNX Real-Time Operating System (RTOS), covering its architecture, features, and application development for embedded systems.
 
     - name: AUT-035 VWG/CARIAD Guideline for Mobile and Tele-Work
       issuer: Luxoft
       date: 2022-08
-      link: '#'
+      link:
       description: |
         Training on the Volkswagen Group's guidelines for secure mobile and teleworking practices, focusing on data protection and compliance.
 
     - name: AUT-034 Prototype Protection Training (ALOB)
       issuer: Luxoft
       date: 2022-04
-      link: '#'
+      link:
       description: |
         Training on protecting prototype vehicles and related intellectual property within the Automotive Logistics and Operations Base (ALOB) framework.
 
     - name: SS-130_SL Feedback Techniques for Team Members
       issuer: Luxoft
       date: 2022-03
-      link: '#'
+      link:
       description: |
         Training on effective feedback techniques for team members, emphasizing constructive communication and performance improvement strategies.
 
@@ -557,14 +557,14 @@ certificate:
     - name: AUT-031 Portable Media Usage in ALOB
       issuer: Luxoft
       date: 2021-11
-      link: '#'
+      link:
       description: |
         Training on secure handling and usage of portable media within the Automotive Logistics and Operations Base (ALOB) environment.
 
     - name: GE-GR-002 German Language Advanced Levels
       issuer: Luxoft
       date: 2021-07
-      link: '#'
+      link:
       description: |
         Advanced level course in German language, focusing on complex grammar structures, advanced vocabulary, and professional communication skills.
 
@@ -578,14 +578,14 @@ certificate:
     - name: Practical Usage of WSL in Windows 10
       issuer: Luxoft
       date: 2021-05
-      link: '#'
+      link:
       description: |
         Training on practical applications of Windows Subsystem for Linux (WSL) in Windows 10, including setup, configuration, and integration with development workflows.
 
     - name: SS-154 Understanding Unconscious Bias
       issuer: Luxoft
       date: 2021-03
-      link: '#'
+      link:
       description: |
         Training on recognizing and addressing unconscious bias in the workplace, promoting diversity, equity, and inclusion through awareness and behavioral change.
 
@@ -613,28 +613,28 @@ certificate:
     - name: AUT-006 OT Automotive SPICE/ ASPICE and Standard ALOB Process Overview (ALOB DOMS)
       issuer: Luxoft
       date: 2020-07
-      link: '#'
+      link:
       description: |
         Overview of Automotive SPICE (ASPICE) standards and processes, focusing on the ALOB DOMS framework for software development and quality assurance in automotive systems.
 
     - name: JDD conference
       issuer: Luxoft
       date: 2020-07
-      link: '#'
+      link:
       description: |
         Participation in the JDD conference, focusing on Java development, software architecture, and emerging technologies in the software engineering landscape.
 
     - name: GE-GR-001 German Language in St. Pete (April 2020)
       issuer: Luxoft
       date: 2020-06
-      link: '#'
+      link:
       description: |
         German language course conducted in St. Petersburg, covering intermediate grammar, vocabulary expansion, and conversational practice.
 
     - name: LUX-068 Respectful and Constructive Communication
       issuer: Luxoft
       date: 2019-12
-      link: '#'
+      link:
       description: |
         Training on respectful and constructive communication techniques, emphasizing effective interpersonal skills and conflict resolution strategies in professional settings.
 
@@ -648,7 +648,7 @@ certificate:
     - name: German language (SPb May, 2019)
       issuer: Luxoft
       date: 2019-08
-      link: '#'
+      link:
       description: |
         German language course conducted in St. Petersburg, covering intermediate grammar, vocabulary expansion, and conversational practice.
 
@@ -662,14 +662,14 @@ certificate:
     - name: German language (SPb 2019)
       issuer: Luxoft
       date: 2019-04
-      link: '#'
+      link:
       description: |
         German language course conducted in St. Petersburg, covering intermediate grammar, vocabulary expansion, and conversational practice.
 
     - name: Switch from C++11 to C++14
       issuer: Luxoft
       date: 2018-12
-      link: '#'
+      link:
       description: |
         Training on transitioning from C++11 to C++14, covering new language features, best practices, and performance optimizations for modern C++ development.
 
