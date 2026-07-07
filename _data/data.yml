@@ -3,17 +3,17 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Roman Lvov
+  title: Senior C++/Rust Software Developer
   avatar:
-    show: true                       # show or hide avatar
-    path: /assets/images/profile.png # file path or link to your avatar
+    show: true
+    path: /assets/images/profile.jpg
 
 contact:
-  location: Beijing, China  # location, text or markdown link syntax
-  email: me@example.com     # email address
-  phone: +86-111-2222-3333  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
+  location: Belgrade, Serbia
+  email: lvov.roma@gmail.com
+  phone: 
+  website: 
 
   gender:                   # gender or pronoun
   birthday:                 # birthday
@@ -25,11 +25,11 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                   # https://github.com/<username>
+  github:                   https://github.com/Lemiort
   gitlab:                   # https://gitlab.com/<username>
   bitbucket:                # https://bitbucket.com/<username>
   git:                      # selfhost git site link without schema "https://"
-  leetcode:                 # https://leetcode.com/<username>
+  leetcode:                 https://leetcode.com/u/user0335s/
   codeforces:               # https://codeforces.com/profile/<username>
   codewars:                 # https://www.codewars.com/users/<username>
   topcoder:                 # https://profiles.topcoder.com/<username>
@@ -60,7 +60,7 @@ contact:
   producthunt:              # https://www.producthunt.com/@<username>
 
   # cv
-  linkedin:                 # https://linkedin.com/in/<username>
+  linkedin:                 https://linkedin.com/in/roman-lvov
   indeed:                   # https://my.indeed.com/p/<id>
   xing:                     # https://www.xing.com/profile/<username>
   fiverr:                   # https://www.fiverr.com/<username>
@@ -97,342 +97,300 @@ contact:
   youtube:                  # https://www.youtube.com/@<username>
   tiktok:                   # https://www.tiktok.com/@<username>
   snapchat:                 # https://www.snapchat.com/add/<username>
-  twitch:                   # https://www.twitch.tv/<username>
+  twitch:                   # https://www.twitch.tv/<username>                 
 
 profile:
   show: true
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    Senior C++/Rust developer with 9 years of experience designing and delivering high-performance embedded systems, automotive platforms, and low-level software solutions. Deep expertise in C++11/14/17, Rust, and systems programming within real-time operating systems (QNX, Embedded Linux). Proven track record in the Automotive Diagnostic Domain, Adaptive AUTOSAR architectures, and low-level graphics engineering (Vulkan API). Passionate about software architecture, clean design patterns, and optimizing critical infrastructure for international markets.
 
 experience:
   show: true
   order: 2
   title: Experiences
   description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
-
+    Professional work history and key technical milestones.
   items:
-    - company: Second Company
+    - company: Luxoft
       link: '#'
       tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
+      date: 2023.01 - 2026.06
+      role: Senior Software Developer
+      location: Belgrade, Serbia
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        - Launch an internal software initiative focused on low-level graphics engineering and modern language capabilities (Rust/Vulkan).
+        - Handle integration, testing, and porting of software frameworks and diagnostic services to new hardware platforms using QNX and Embedded Linux.
+        - Design low-level interfaces for new hardware architectures and implement specialized adapters.
+        - Utilize specialized ecosystems for Adaptive AUTOSAR applications and perform extensive static code analysis.
 
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+    - company: Luxoft
+      link: '#'
+      tags: Full-time
+      date: 2021.09 - 2023.01
+      role: Software Developer (Core Diagnostics & Architecture)
+      location: Belgrade, Serbia
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        - Analyze software requirements and develop Software Detailed Designs (SDD) for core automotive diagnostic services.
+        - Create component architectures and sequence diagrams for complex service logic within predefined interface constraints.
+        - Fully implement application features and system services using embedded C++14.
+        - Manage software release cycles, ensuring compliance with quality gates and ASPICE standards (SWE.2-SWE.6, SUP.8).
+        - Develop comprehensive unit-test suites and mock-based frameworks to simulate system-level calls and error scenarios.
+
+    - company: Luxoft
+      link: '#'
+      tags: Full-time
+      date: 2018.07 - 2021.09
+      role: Software Developer (Embedded Systems & CI/CD Infrastructure)
+      location: St. Petersburg, Russia
+      description: |
+        - Develop core features, service architectures, and baselines for early-stage diagnostic service versions.
+        - Manage the CI infrastructure, including maintaining Linux and Docker environments for cross-platform SDK support.
+        - Write and optimize Jenkins-based CI/CD pipelines to streamline automated testing and release workflows.
+        - Maintain Hardware-in-the-Loop (HIL) test setups and automated test execution on distributed Raspberry Pi target farms.
+        - Develop internal Python scripting tools to automate release checklist verification and artifact generation.
+
+    - company: State Research Institute of Applied Problems
+      link: '#'
+      tags: Full-time
+      date: 2014.11 - 2018.07
+      role: Software Engineer
+      location: St. Petersburg, Russia
+      description: |
+        - Low-level development of communication protocols and firmware for ARM-based microcontrollers using pure C.
+        - Design and implementation of data transmission protocols utilizing various physical interfaces, including SPI, UART, and USB.
+        - Customization and maintenance of embedded Linux distributions using Buildroot and Yocto Project.
+        - Configuration of bootloaders (U-Boot) and kernel-level optimizations, including custom module integration and peripheral management.
+        - Development and modification of kernel-space and user-space drivers for Linux and Windows to enable hardware-software communication.
+        - Signal analysis and protocol verification using hardware logic analyzers and software tools like Wireshark.
+        - Research and development in Software Defined Radio (SDR) using GNU Radio, including the creation of custom processing blocks in Python and C++ for real-time performance.
+        - Development of client applications (Windows) for data exchange and remote device management.
+        - Debugging and validation of physical layer communication interfaces to ensure reliable data transfer in hardware-constrained environments.
 
 project:
   show: true
   order: 3
-  title: Projects
+  title: Key Architectural Decisions & Projects
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
-
+    Architectural strategies and research initiatives delivered throughout the career.
   items:
-    - name: Personal project
-      link: '#'
-      tags:
-      date: 2015 - 2017
-      description: |
-        Personal project description...
-        + First
-        + Second
-
-    - name: OSS project
+    - name: Independent Graphics R&D Initiative
       link:
-      tags: committer
-      date:
+      tags: Rust, Vulkan, arc42
+      date: 2025
       description: |
-        OSS project description...
-        + First
-        + Second
+        Designed a modular cross-platform software architecture from scratch using the arc42 framework and SOLID principles. Successfully delivered a robust low-level Vulkan rendering backend engineered entirely in Rust, implementing a manual shader recompilation and dynamic pipeline reload mechanism.
+    
+    - name: Multi-Engineer Release Infrastructure Standard
+      link:
+      tags: CI/CD, Docker, Automation
+      date: 2018 - 2023
+      description: |
+        Standardized on Docker images and Jenkins pipelines for cross-platform SDK support across distributed engineering teams, significantly reducing configuration errors and establishing stable baseline generation processes.
 
 skill:
   show: true
   order: 4
   title: Skills
   description: |
-    The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
-
-    The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
-
-    When crafting your skills section, it's important to tailor it to the specific job you are applying for, and only include skills that are relevant to the position. This can help catch the attention of the hiring manager and demonstrate that you have the qualifications necessary to succeed in the role.
-
-    There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
-
+    Core technical stack and domain expertise.
   items:
-    - name: Skill A
+    - name: C++ (C++11/14/17)
       level: 5
-    - name: Skill B
-      level: 4
-    - name: Skill C
+    - name: Rust
       level: 3
-    - name: Skill D
+    - name: Software Architecture (arc42)
       level: 4
-    - name: Skill E
+    - name: QNX & Embedded Linux
+      level: 4
+    - name: Adaptive AUTOSAR
+      level: 4
+    - name: ASPICE / ISO 26262
+      level: 4
+    - name: Vulkan API
       level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
+    - name: CI/CD (Jenkins & Docker)
       level: 4
-    - name: Skill H
+    - name: Python / Bash
       level: 4
-    - name: Skill I
-      level: 3
 
   groups:
-    - name: Group A Skills
+    - name: Programming Languages & Graphics
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - C++ (C++11/14/17)
+        - Rust
+        - Vulkan API
+    - name: Embedded & Automotive Systems
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
+        - QNX & Embedded Linux
+        - Adaptive AUTOSAR
+        - ASPICE / ISO 26262
+        - Software Architecture (arc42)
+    - name: DevOps & Tools
       item:
-        - Skill H
-        - Skill I
+        - CI/CD (Jenkins & Docker)
+        - Python / Bash
 
 education:
   show: true
   order: 5
   title: Education
   description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
-
+    Academic background in computer systems engineering.
   items:
-    - institution: Example University
+    - institution: Saint Petersburg State Electrotechnical University "LETI"
       link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+      date: 2016 - 2018
+      major: Computer Science and Computer Engineering
+      degree: Master's degree
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        Focused on advanced computing systems and software engineering principles.
 
-    - institution: Example University
-      link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      description: |
-        Additional information for this institution.
-        + First
-        + Second
+    - institution: Saint Petersburg State Electrotechnical University "LETI"
+      link: '#'
+      date: 2012 - 2016
+      major: Computer Information Systems
+      degree: Bachelor's degree
 
 certificate:
   show: true
   order: 6
-  title: Certificates
+  title: Certificates & Training
   description: |
-    The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
-
-    Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
-
-    When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
-
-    The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
-
+    Specialized courses and professional development records.
   items:
-    - name: Example Certificate One
-      issuer: by Example
-      date: 2020
-      link: '#'
-      description: |
-        It's my Example Certificate One by Example.
-    - name: Example Certificate Two
-      issuer: by Example
+    - name: Unreal Engine - A Complete Guide to C++ Development
+      issuer: Online Training
+      date: 2026
+      link:
+    - name: C-008 C++ Best Practices
+      issuer: Corporate Education
+      date: 2026
+      link:
+    - name: Qt 6 Core Beginners with C++
+      issuer: Online Training
+      date: 2026
+      link:
+    - name: Learn the Vulkan API with C++
+      issuer: Technical Academy
+      date: 2025
+      link:
+    - name: Go - The Complete Developer's Guide (Golang)
+      issuer: Online Training
+      date: 2025
+      link:
+    - name: Rust - The Complete Developer's Guide
+      issuer: Online Training
+      date: 2025
+      link:
+    - name: The Complete Guide to Becoming a Software Architect
+      issuer: Architecture Academy
+      date: 2025
+      link:
+    - name: Software Architecture & Design of Modern Large Scale Systems
+      issuer: Tech Training
+      date: 2025
+      link:
+    - name: SOLID Principles & Software Design Patterns
+      issuer: Architecture Academy
+      date: 2025
+      link:
+    - name: ARC-001 Key Concepts of Software Architecture
+      issuer: Corporate Education
+      date: 2024
+      link:
+    - name: AUT-037 Mandatory Automotive Cybersecurity Awareness
+      issuer: Compliance Training
+      date: 2024
+      link:
+    - name: AUT-036 Adaptive AUTOSAR Advanced
+      issuer: Automotive Academy
+      date: 2023
+      link:
+    - name: AUT-053 Introduction to QNX RTOS
+      issuer: Tech Training
+      date: 2022
+      link:
+    - name: AUT-016 Introduction to Functional Safety as per ISO 26262
+      issuer: Standards Training
+      date: 2021
+      link:
+    - name: ARC-010 Introduction to Software System Architecture
+      issuer: Corporate Education
+      date: 2021
+      link:
+    - name: AUT-006 Automotive SPICE / ASPICE Process Overview
+      issuer: Compliance Training
       date: 2020
       link:
-      description: |
-        It's my Example Certificate Two by Example.
+    - name: Switch from C++11 to C++14
+      issuer: Technical Training
+      date: 2018
+      link:
 
 publication:
-  show: true
+  show: false
   order: 7
   title: Publications
-  description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
-
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
-
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
-
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
-
-  items:
-    - title: Example Publication in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: '#'
-    - title: The Art of Example Publication
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+  items: []
 
 award:
-  show: true
+  show: false
   order: 8
   title: Awards
-  description: |
-    The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
-
-    When including your awards on your resume, be sure to focus on the most significant or relevant awards that showcase your skills and expertise. If you have received a long list of awards, you may want to consider including only the most recent or prestigious awards on your resume.
-
-    By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
-
-  items:
-    - name: Example Awared One
-      awarder: by Example
-      date: 2022
-      link: '#'
-      description: |
-        It's my Example Awared One by Example.
-    - name: Example Awared Two
-      awarder: by Example
-      date: 2022
-      link:
-      description: |
-        It's my Example Awared Two by Example.
+  items: []
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
-  description: |
-    The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
-
-    In this section, you should list the title of the patent, the name of the inventors, the patent number, and the date it was granted. If the patent is pending, you can indicate that it is "pending" or "in review." You may also want to provide a brief description of the technology or invention that the patent covers.
-
-    Including a patent section in your resume can help demonstrate your expertise and accomplishments in your field, and can help you stand out from other candidates. However, if you do not have any patents to list, it is not necessary to include this section in your resume.
-
-    Template for a pending patent:
-
-    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
-
-    Template for an approved patent:
-
-    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
-
-    The following are some examples of patent formats.
-
-    + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
-    + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
+  items: []
 
 organization:
-  show: true
+  show: false
   order: 10
   title: Organizations
-  description: |
-    The organization section in a resume, specifically for social contexts, is a section where you can showcase any relevant involvement or leadership positions in social, cultural, or community organizations. This section can highlight your commitment to social causes and your ability to work collaboratively with others towards a common goal.
-
-    In this section, you can list the name of the organization, your role and responsibilities, the duration of your involvement, and any significant achievements or accomplishments. You can also mention any skills or qualities you gained from your involvement, such as leadership, teamwork, communication, or problem-solving skills.
-
-    This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
 
 language:
   show: true
   order: 11
   title: Languages
   description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
-
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
-
+    Language proficiency levels.
   items:
-    - idiom: Chinese
-      level: Native
+    - idiom: Russian
+      level: Native or Bilingual
     - idiom: English
-      level: Professional
+      level: Professional Working
+    - idiom: German
+      level: Professional Working
+    - idiom: Serbian
+      level: Intermediate / Limited Working
 
 interest:
   show: true
   order: 12
   title: Interests
   description: |
-    The interests section in a resume typically refers to a section where you can mention your hobbies, interests, and activities outside of work or school. This section can give potential employers a better idea of your personality, your values, and your interests beyond your professional experience.
-
-    Including an interest section in your resume can be helpful if your interests are relevant to the job you are applying for, such as if you are applying for a job in a creative field and your hobbies include painting or writing. It can also be useful if you are applying for a job where teamwork or social skills are important, and you can mention interests that demonstrate those qualities.
-
-    However, it is important to be selective when including an interest section in your resume, and to choose interests that are appropriate and professional. Avoid including controversial or potentially offensive interests, and focus on interests that showcase your positive qualities and strengths.
-
+    Personal tech-related fields of exploration.
   items:
-    - item: Reading
-      link: '#'
-    - item: Cooking
+    - item: Low-level graphics research & Vulkan engineering
+      link:
+    - item: Continuous Integration infrastructure optimization
+      link:
+    - item: Algorithmic challenges & Competitive programming
       link:
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: Self-evaluation
-  description: |
-    The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
-
-    In this section, you can highlight your achievements, areas of expertise, and any unique qualities or experiences that set you apart from other candidates. You can also mention areas where you are looking to improve or gain further experience.
-
-    A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
 
 reference:
-  show: true
+  show: false
   order: 14
   title: References
-  description: |
-    A reference section in a resume is a list of individuals who can vouch for your skills, work ethic, and character. These individuals are typically former managers, colleagues, or mentors who have worked closely with you in the past and can provide insight into your abilities and work style.
+  items: []
 
-    It's important to note that including a reference section in a resume is not always necessary, and some employers may prefer to request references separately. If you do choose to include a reference section, it should typically be located at the end of your resume.
-
-    When listing references, be sure to include the individual's name, job title, company name, phone number, and email address. It's also a good idea to ask for the individual's permission before listing them as a reference, and to let them know what kind of job you are applying for so they can speak to your relevant skills and experience.
-
-    It's important to choose references who can provide a positive and comprehensive evaluation of your work. Avoid listing family members or friends as references, and instead focus on individuals who can speak to your professional abilities and accomplishments.
-
-  items:
-    - name: Foo One
-      link: '#'
-      title: Backend Developer
-      institution: Second Company
-      address: 1234 Example St, XXX, XY 11111
-      email: foo.one@example.com
-      phone: 111-222-333
-      description: |
-        Foo One was my colleague in Second Company.
-
-    - name: Bar Two
-      link:
-      title: Professor
-      institution: Example University
-      address: 4321 Example St, YYY, XY 22222
-      email: bar.two@example.com
-      phone: 444-555-666
-      description: |
-        Bar Two was my advisor at Example University.
-
-close: <strong>Sorry, my resume has been hidden.</strong>
+close: <strong>Thank you for reviewing my profile. Please contact me directly via email for any corporate inquiries.</strong>
