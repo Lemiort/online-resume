@@ -4,7 +4,7 @@ meta:
 
 basic:
   name: Roman Lvov
-  title: Senior C++/Rust Software Developer
+  title: Senior C++ Software Developer
   avatar:
     show: true
     path: /assets/images/profile.jpg
@@ -104,7 +104,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Senior C++/Rust developer with 9 years of experience designing and delivering high-performance embedded systems, automotive platforms, and low-level software solutions. Deep expertise in C++11/14/17, Rust, and systems programming within real-time operating systems (QNX, Embedded Linux). Proven track record in the Automotive Diagnostic Domain, Adaptive AUTOSAR architectures, and low-level graphics engineering (Vulkan API). Passionate about software architecture, clean design patterns, and optimizing critical infrastructure for international markets.
+    Senior C++ Software Developer with 9 years of professional experience designing and delivering high-performance embedded systems, automotive platforms (Adaptive AUTOSAR), and real-time solutions. Deep technical expertise in C++11/14/17, C, and low-level systems programming within QNX and Embedded Linux. Proven track record in core Automotive Diagnostics (leading German OEM), compliance with ASPICE, and rigorous software verification using Absint and Bullseye. Hands-on expertise in modern systems programming (Rust) and low-level graphics architectures (Vulkan API) demonstrated through successful corporate R&D initiatives.
 
 experience:
   show: true
@@ -116,27 +116,38 @@ experience:
     - company: Luxoft
       link: 'https://www.luxoft.com/'
       tags: Full-time
-      date: 2023.01 - 2026.06
-      role: Senior Software Developer
+      date: 2025.11 - 2025.12
+      role: Senior Software Developer (Graphics R&D Initiative)
       location: Belgrade, Serbia
       description: |
-        - Launch an internal software initiative focused on low-level graphics engineering and modern language capabilities (Rust/Vulkan).
-        - Handle integration, testing, and porting of software frameworks and diagnostic services to new hardware platforms using QNX and Embedded Linux.
-        - Design low-level interfaces for new hardware architectures and implement specialized adapters.
-        - Utilize specialized ecosystems for Adaptive AUTOSAR applications and perform extensive static code analysis.
+        - Launched and executed an internal software R&D initiative focused on evaluating Rust capabilities in low-level graphics engineering.
+        - Designed a modular cross-platform software architecture from scratch using the arc42 framework and SOLID principles.
+        - Developed a robust low-level Vulkan rendering backend engineered entirely in Rust.
+        - Implemented a manual shader recompilation (GLSL) and dynamic pipeline reload mechanism.
 
     - company: Luxoft
       link: 'https://www.luxoft.com/'
       tags: Full-time
-      date: 2021.09 - 2023.01
-      role: Software Developer (Core Diagnostics & Architecture)
+      date: 2023.04 - 2026.06
+      role: Senior Software Developer (Automotive Diagnostics)
       location: Belgrade, Serbia
       description: |
-        - Analyze software requirements and develop Software Detailed Designs (SDD) for core automotive diagnostic services.
-        - Create component architectures and sequence diagrams for complex service logic within predefined interface constraints.
-        - Fully implement application features and system services using embedded C++14.
-        - Manage software release cycles, ensuring compliance with quality gates and ASPICE standards (SWE.2-SWE.6, SUP.8).
-        - Develop comprehensive unit-test suites and mock-based frameworks to simulate system-level calls and error scenarios.
+        - Handled integration, testing, and porting of core software frameworks and diagnostic services (PVD, DDM, DiagAPI) to new hardware platforms using QNX and Embedded Linux for VW/Cariad.
+        - Designed low-level interfaces for new hardware architectures and implemented specialized software adapters.
+        - Utilized Vector ecosystems for Adaptive AUTOSAR applications and performed extensive static code analysis.
+        - Managed software release cycles, ensuring strict compliance with quality gates and ASPICE standards (SWE.1-SWE.6, SUP.8).
+
+    - company: Luxoft
+      link: 'https://www.luxoft.com/'
+      tags: Full-time
+      date: 2021.09 - 2023.04
+      role: Software Developer (Core Diagnostics & Architecture)
+      location: Belgrade, Serbia / St. Petersburg, Russia
+      description: |
+        - Analyzed software requirements and developed Software Detailed Designs (SDD) for complex automotive diagnostic services (DiagEDP, DSA 1.2).
+        - Created component architectures and sequence diagrams for complex service logic within predefined interface constraints using PlantUML.
+        - Fully implemented application features and system services using embedded C++14.
+        - Developed comprehensive unit-test suites using Google Test and mock-based frameworks to simulate system-level calls.
 
     - company: Luxoft
       link: 'https://www.luxoft.com/'
@@ -145,11 +156,11 @@ experience:
       role: Software Developer (Embedded Systems & CI/CD Infrastructure)
       location: St. Petersburg, Russia
       description: |
-        - Develop core features, service architectures, and baselines for early-stage diagnostic service versions.
-        - Manage the CI infrastructure, including maintaining Linux and Docker environments for cross-platform SDK support.
-        - Write and optimize Jenkins-based CI/CD pipelines to streamline automated testing and release workflows.
-        - Maintain Hardware-in-the-Loop (HIL) test setups and automated test execution on distributed Raspberry Pi target farms.
-        - Develop internal Python scripting tools to automate release checklist verification and artifact generation.
+        - Developed core features, service architectures, and baselines for early-stage diagnostic service versions (DSA 1.1).
+        - Managed the CI infrastructure, maintaining Linux, Docker, and firmware updates for cross-platform SDK support.
+        - Wrote and optimized Jenkins-based CI/CD pipelines to streamline automated testing and release workflows.
+        - Maintained Hardware-in-the-Loop (HIL) test setups and automated test execution on distributed Raspberry Pi target farms.
+        - Developed internal Python scripting tools to automate release checklist verification, license management (Absint, Bullseye), and artifact generation.
 
     - company: State Research Institute of Applied Problems
       link:
@@ -158,15 +169,11 @@ experience:
       role: Software Engineer
       location: St. Petersburg, Russia
       description: |
-        - Low-level development of communication protocols and firmware for ARM-based microcontrollers using pure C.
-        - Design and implementation of data transmission protocols utilizing various physical interfaces, including SPI, UART, and USB.
-        - Customization and maintenance of embedded Linux distributions using Buildroot and Yocto Project.
-        - Configuration of bootloaders (U-Boot) and kernel-level optimizations, including custom module integration and peripheral management.
-        - Development and modification of kernel-space and user-space drivers for Linux and Windows to enable hardware-software communication.
-        - Signal analysis and protocol verification using hardware logic analyzers and software tools like Wireshark.
-        - Research and development in Software Defined Radio (SDR) using GNU Radio, including the creation of custom processing blocks in Python and C++ for real-time performance.
-        - Development of client applications (Windows) for data exchange and remote device management.
-        - Debugging and validation of physical layer communication interfaces to ensure reliable data transfer in hardware-constrained environments.
+        - Developed low-level communication protocols and firmware for ARM-based microcontrollers using pure C (Cortex-M4 via Keil).
+        - Designed and implemented data transmission protocols utilizing physical interfaces including SPI, UART, and USB.
+        - Maintained embedded Linux distributions using Buildroot and Yocto Project; optimized bootloaders (U-Boot) and kernel-space modules.
+        - Researched Software Defined Radio (SDR) using GNU Radio, developing custom processing blocks in Python and C++.
+        - Developed desktop client applications and internal tools utilizing C#/.NET and Windows Driver Kit (WDK) to enable hardware-software communication.
 
 project:
   show: true
@@ -177,14 +184,14 @@ project:
   items:
     - name: Independent Graphics R&D Initiative
       link:
-      tags: Rust, Vulkan, arc42
+      tags: Rust, Vulkan, arc42, GLSL
       date: 2025
       description: |
-        Designed a modular cross-platform software architecture from scratch using the arc42 framework and SOLID principles. Successfully delivered a robust low-level Vulkan rendering backend engineered entirely in Rust, implementing a manual shader recompilation and dynamic pipeline reload mechanism.
+        Designed a modular cross-platform software architecture from scratch using the arc42 framework. Successfully delivered a robust low-level Vulkan rendering backend engineered entirely in Rust, implementing a manual shader recompilation and dynamic pipeline reload mechanism.
     
     - name: Multi-Engineer Release Infrastructure Standard
       link:
-      tags: CI/CD, Docker, Automation
+      tags: CI/CD, Docker, Jenkins, Automation
       date: 2018 - 2023
       description: |
         Standardized on Docker images and Jenkins pipelines for cross-platform SDK support across distributed engineering teams, significantly reducing configuration errors and establishing stable baseline generation processes.
@@ -198,6 +205,8 @@ skill:
   items:
     - name: C++ (C++11/14/17)
       level: 5
+    - name: C Programming Language
+      level: 5
     - name: Rust
       level: 4
     - name: Software Architecture (arc42)
@@ -210,49 +219,64 @@ skill:
       level: 4
     - name: Vulkan API
       level: 3
+    - name: OpenGL
+      level: 3
     - name: CI/CD (Jenkins & Docker)
       level: 4
     - name: Python / Bash
+      level: 4
+    - name: C# / .NET
       level: 4
 
   groups:
     - name: Programming Languages & Graphics
       item:
         - C++ (C++11/14/17)
+        - C Language
         - Rust
         - Vulkan API
+        - GLSL
+        - C# / .NET
     - name: Embedded & Automotive Systems
       item:
         - QNX & Embedded Linux
         - Adaptive AUTOSAR
-        - ASPICE / ISO 26262
+        - ASPICE (SWE.1-SWE.6, SUP.8)
         - Software Architecture (arc42)
+        - Absint / BullseyeCoverage
     - name: DevOps & Tools
       item:
         - CI/CD (Jenkins & Docker)
+        - CMake / Conan
+        - Google Test
         - Python / Bash
+        - Git / GitHub Actions
+        - Jenkins
 
 education:
   show: true
   order: 5
   title: Education
   description: |
-    Academic background in computer systems engineering.
+    Academic background in computer systems engineering and software development methodologies.
   items:
     - institution: Saint Petersburg State Electrotechnical University "LETI"
       link: https://etu.ru/en/study/bachelors-degree/information-systems-and-technologies
       date: 2016 - 2018
-      major: Computer Science and Computer Engineering
+      major: Computer Systems Engineering and Informatics
       degree: Master's degree
       description: |
-        Focused on advanced computing systems and software engineering principles.
+        Specialization: Computer-Aided Design in Electronics and Mechanical Engineering.
+        Focused on advanced software engineering, high-performance computing, and architectural design patterns for complex automation systems. Deep dive into system optimization and algorithms.
 
     - institution: Saint Petersburg State Electrotechnical University "LETI"
       link: https://etu.ru/en/study/faculties/faculty-of-computing-technologies-and-informatics/
       date: 2012 - 2016
-      major: Computer Information Systems
+      major: Computer Systems Engineering and Informatics
       degree: Bachelor's degree
-
+      description: |
+        Specialization: Computer Modeling and Design.
+        Foundational track in object-oriented programming, data structures, and computer-aided engineering. Extensively utilized C#/.NET for academic research projects, desktop application development, and computational modeling.
 certificate:
   show: true
   order: 12
@@ -590,7 +614,7 @@ language:
     - idiom: English
       level: Professional Working
     - idiom: German
-      level: Professional Working
+      level: Intermediate / Limited Working
     - idiom: Serbian
       level: Intermediate / Limited Working
 
