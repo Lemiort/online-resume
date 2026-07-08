@@ -6,7 +6,7 @@ basic:
   name: Roman Lvov
   title: Senior C++ Software Developer
   avatar:
-    show: true
+    show: false
     path: /assets/images/profile.jpg
 
 contact:
