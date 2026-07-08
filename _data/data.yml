@@ -264,414 +264,296 @@ certificate:
       issuer: Udemy
       date: 2026-05
       link: 'https://www.udemy.com/certificate/UC-d8936409-0ebb-4568-bfbe-0935c2733b93/'
-      description: |
-        Comprehensive course on Unreal Engine development using C++, covering game mechanics, rendering, and performance optimization.
 
     - name: C-008 C++ Best Practices
       issuer: Luxoft
       date: 2026-04
       link:
-      description: |
-        In-depth training on modern C++ best practices, focusing on code quality, maintainability, and performance.
 
     - name: Qt 6 Core Beginners with C++
       issuer: Udemy
       date: 2026-02
       link:
-      description: |
-        Beginner-level course on Qt 6 framework, emphasizing GUI development and event-driven programming in C++.
 
     - name: AI Insights webinar- Meet Rob 2.0 DXC tool for faster sprints and safer code
       issuer: Luxoft
       date: 2026-01
       link:
-      description: |
-        Webinar on the Rob 2.0 DXC tool, demonstrating its capabilities in accelerating development sprints and enhancing code safety.
 
     - name: Effective Communication in the Workplace
       issuer: Luxoft
       date: 2026-01
       link:
-      description: |
-        Training focused on improving communication skills in professional settings, including active listening and clear articulation.
 
     - name: Intermediate English Course - Develop Your Grammar and Skills
       issuer: Luxoft
       date: 2026-01
       link:
-      description: |
-        Intermediate-level English course aimed at enhancing grammar proficiency and overall language skills for professional communication.
 
     - name: AI Insights - Accelerating Software Development with Windsurf
       issuer: Luxoft
       date: 2026-01
       link:
-      description: |
-        Insights into the Windsurf platform, exploring its role in accelerating software development processes and improving team collaboration.
 
     - name: TypeScript from Scratch - Full Course and Design Patterns
       issuer: Udemy
       date: 2026-01
       link:
-      description: |
-        Comprehensive course on TypeScript, covering fundamental concepts, advanced features, and design patterns for building scalable applications.
 
     - name: Learn the Vulkan API with C++
       issuer: Udemy
       date: 2025-12
       link: 'https://www.udemy.com/certificate/UC-8785374d-eaaf-4906-9664-cb39ce644772/'
-      description: |
-        In-depth course on Vulkan API programming using C++, focusing on graphics rendering, pipeline management, and performance optimization.
 
     - name: AI Insights - AI Ethics and Compliance Q&A session
       issuer: Luxoft
       date: 2025-11
       link:
-      description: |
-        Q&A session addressing ethical considerations and compliance requirements in AI development, emphasizing responsible AI practices.
 
     - name: Go - The Complete Developer's Guide (Golang)
       issuer: Udemy
       date: 2025-10
       link:
-      description: |
-        Comprehensive course on Go programming language, covering syntax, concurrency, and building web applications.
 
     - name: Machine Learning for Absolute Beginners - Level 1
       issuer: Udemy
       date: 2025-10
       link:
-      description: |
-        Introductory course on machine learning concepts, algorithms, and practical applications for beginners.
 
     - name: Rust - The Complete Developer's Guide
       issuer: Udemy
       date: 2025-09
       link:
-      description: |
-        Complete guide to Rust programming language, covering fundamentals, advanced features, and building efficient systems.
     
     - name: AUT-031 Portable Media Usage in ALOB
       issuer: Udemy
       date: 2025-08
       link:
-      description: |
-        Training on secure handling and usage of portable media within the Automotive Logistics and Operations Base (ALOB) environment.
 
     - name: Quick Start to Modern C++ for Programmers
       issuer: Luxoft
       date: 2025-07
       link:
-      description: |
-        Accelerated course on modern C++ features and best practices, aimed at experienced programmers transitioning to C++.
 
     - name: AUT-035 VW Group Guideline for Mobile and Tele-Work
       issuer: Luxoft
       date: 2025-06
       link:
-      description: |
-        Training on the Volkswagen Group's guidelines for secure mobile and teleworking practices, focusing on data protection and compliance.
 
     - name: AUT-034 Prototype Protection Training (ALOB)
       issuer: Luxoft
       date: 2025-04
       link:
-      description: |
-        Training on protecting prototype vehicles and related intellectual property within the Automotive Logistics and Operations Base (ALOB) framework.
 
     - name: Software Architecture & System Design Practical Case Studies
       issuer: Udemy
       date: 2025-02
       link: 'https://www.udemy.com/certificate/UC-5464ab9d-d4de-4fad-9ab2-c29e3aff643d/'
-      description: |
-        Practical case studies on software architecture and system design, emphasizing real-world applications and problem-solving techniques.
 
     - name: SOLID Principles - Introducing Software Architecture & Design
       issuer: Udemy
       date: 2025-02
       link: 'https://www.udemy.com/certificate/UC-7bbdbfcc-23ab-4e00-a14c-d3ac5f6aca6c/'
-      description: |
-        Course introducing SOLID principles and their application in software architecture and design, focusing on creating maintainable and scalable systems.
 
     - name: Software Architecture & Design of Modern Large Scale Systems
       issuer: Udemy
       date: 2025-02
       link: 'https://www.udemy.com/certificate/UC-7295c6c9-be1f-4cd4-bc12-a3f9ace7ee07/'
-      description: |
-        Comprehensive course on designing modern large-scale software systems, covering architecture patterns, scalability, and performance optimization.
 
     - name: The Complete Guide to Becoming a Software Architect
       issuer: Udemy
       date: 2025-02
       link: 'https://www.udemy.com/certificate/UC-11139e84-7102-43c7-b909-8920104245d8/'
-      description: |
-        Complete guide to the role of a software architect, including responsibilities, design principles, and best practices for leading software projects.
 
     - name: Software Design by SOLID and Connascence Principles
       issuer: Udemy
       date: 2025-02
       link: 'https://www.udemy.com/certificate/UC-7243b8ca-672f-4517-a344-b77b8ecf3620/'
-      description: |
-        In-depth exploration of SOLID and Connascence principles in software design, focusing on creating flexible and maintainable codebases.
 
     - name: Software Architecture - Meta and SOLID Principles in OOP
       issuer: Udemy
       date: 2025-02
       link: 'https://www.udemy.com/certificate/UC-6174eeca-9abb-4c3f-832f-d6835aa9f303/'
-      description: |
-        Course on applying meta and SOLID principles in object-oriented programming, emphasizing design patterns and architectural best practices.
 
     - name: AUT-031 Portable Media Usage in ALOB
       issuer: Luxoft
       date: 2024-08
       link:
-      description: |
-        Training on secure handling and usage of portable media within the Automotive Logistics and Operations Base (ALOB) environment.
 
     - name: AUT-035 VWG/CARIAD Guideline for Mobile and Tele-Work
       issuer: Luxoft
       date: 2024-06
       link:
-      description: |
-        Training on the Volkswagen Group's guidelines for secure mobile and teleworking practices, focusing on data protection and compliance.
 
     - name: ARC-001 Key Concepts of Software Architecture
       issuer: Luxoft
       date: 2024-04
       link:
-      description: |
-        Training on fundamental concepts of software architecture, including architectural patterns, design principles, and best practices for building robust systems.
   
     - name: AUT-034 Prototype Protection Training (ALOB)
       issuer: Luxoft
       date: 2024-04
       link:
-      description: |
-        Training on protecting prototype vehicles and related intellectual property within the Automotive Logistics and Operations Base (ALOB) framework.
 
     - name: AUT-037 Mandatory Automotive Cybersecurity Awareness
       issuer: Luxoft
       date: 2024-02
       link:
-      description: |
-        Awareness training on automotive cybersecurity, covering best practices for protecting vehicle systems and data from cyber threats.
 
     - name: Algorithms and Data Structures
       issuer: Udemy
       date: 2024-01
       link: 'https://www.udemy.com/certificate/UC-d15bcb4a-7644-480b-8353-0d66124a1118/'
-      description: |
-        Comprehensive course on algorithms and data structures, focusing on problem-solving techniques and efficient coding practices.
 
     - name: AUT-031 Portable Media Usage in ALOB
       issuer: Luxoft
       date: 2023-08
       link:
-      description: |
-        Training on secure handling and usage of portable media within the Automotive Logistics and Operations Base (ALOB) environment.
 
     - name: AUT-035 VWG/CARIAD Guideline for Mobile and Tele-Work
       issuer: Luxoft
       date: 2023-08
       link:
-      description: |
-        Training on the Volkswagen Group's guidelines for secure mobile and teleworking practices, focusing on data protection and compliance.
 
     - name: AUT-034 Prototype Protection Training (ALOB)
       issuer: Luxoft
       date: 2023-04
       link:
-      description: |
-        Training on protecting prototype vehicles and related intellectual property within the Automotive Logistics and Operations Base (ALOB) framework.
 
     - name: Functional Programming using C++
       issuer: Udemy
       date: 2023-03
       link: 'https://www.udemy.com/certificate/UC-41192892-2ee3-4b79-b9ab-298e7d97b87d/'
-      description: |
-        Course on applying functional programming paradigms in C++, covering concepts such as immutability, higher-order functions, and functional design patterns.
 
     - name: AUT-036 Adaptive AUTOSAR Advanced
       issuer: Luxoft
       date: 2023-01
       link:
-      description: |
-        Advanced training on Adaptive AUTOSAR, focusing on architecture, service-oriented communication, and application development within the Adaptive AUTOSAR framework.
 
     - name: SR-GR-001 Serbian Language Basic Level
       issuer: Luxoft
       date: 2022-10
       link:
-      description: |
-        Basic level course in Serbian language, covering fundamental grammar, vocabulary, and conversational skills for effective communication.
 
     - name: AUT-053 Introduction to QNX RTOS
       issuer: Luxoft
       date: 2022-09
       link:
-      description: |
-        Introductory course on QNX Real-Time Operating System (RTOS), covering its architecture, features, and application development for embedded systems.
 
     - name: AUT-035 VWG/CARIAD Guideline for Mobile and Tele-Work
       issuer: Luxoft
       date: 2022-08
       link:
-      description: |
-        Training on the Volkswagen Group's guidelines for secure mobile and teleworking practices, focusing on data protection and compliance.
 
     - name: AUT-034 Prototype Protection Training (ALOB)
       issuer: Luxoft
       date: 2022-04
       link:
-      description: |
-        Training on protecting prototype vehicles and related intellectual property within the Automotive Logistics and Operations Base (ALOB) framework.
 
     - name: SS-130_SL Feedback Techniques for Team Members
       issuer: Luxoft
       date: 2022-03
       link:
-      description: |
-        Training on effective feedback techniques for team members, emphasizing constructive communication and performance improvement strategies.
 
     - name: GE-GR-002 German Language Advanced Levels
       issuer: Luxoft
       date: 2022-02
       link: 'https://drive.google.com/file/d/1aGQQNBmXvbRz6lFnrKPx719t846dtW0i/view'
-      description: |
-        Advanced level course in German language, focusing on complex grammar structures, advanced vocabulary, and professional communication skills.
 
     - name: GE-GR-001 German Language St. Pete September 21
       issuer: Luxoft
       date: 2022-01
       link: 'https://drive.google.com/file/d/1aGQQNBmXvbRz6lFnrKPx719t846dtW0i/view'
-      description: |
-        German language course conducted in St. Petersburg, covering intermediate grammar, vocabulary expansion, and conversational practice.
 
     - name: SS-008 Effective Preparation of Presentations
       issuer: Luxoft
       date: 2021-11
       link: 'https://drive.google.com/file/d/1ku-t_vmjeUN_FQWvF11wMV2L3nxcGIcU/view'
-      description: |
-        Training on effective presentation preparation techniques, including structuring content, visual design, and delivery skills for impactful presentations.
 
     - name: AUT-031 Portable Media Usage in ALOB
       issuer: Luxoft
       date: 2021-11
       link:
-      description: |
-        Training on secure handling and usage of portable media within the Automotive Logistics and Operations Base (ALOB) environment.
 
     - name: GE-GR-002 German Language Advanced Levels
       issuer: Luxoft
       date: 2021-07
       link:
-      description: |
-        Advanced level course in German language, focusing on complex grammar structures, advanced vocabulary, and professional communication skills.
 
     - name: GE-GR-001 German Language St. Pete February 21
       issuer: Luxoft
       date: 2021-06
       link: 'https://drive.google.com/file/d/1HCZCDLNbulUBhyJrOgGX-U7puz2xoH-H/view'
-      description: |
-        German language course conducted in St. Petersburg, covering intermediate grammar, vocabulary expansion, and conversational practice.
 
     - name: Practical Usage of WSL in Windows 10
       issuer: Luxoft
       date: 2021-05
       link:
-      description: |
-        Training on practical applications of Windows Subsystem for Linux (WSL) in Windows 10, including setup, configuration, and integration with development workflows.
 
     - name: SS-154 Understanding Unconscious Bias
       issuer: Luxoft
       date: 2021-03
       link:
-      description: |
-        Training on recognizing and addressing unconscious bias in the workplace, promoting diversity, equity, and inclusion through awareness and behavioral change.
 
     - name: AUT-016 Introduction to Functional Safety as per ISO 26262
       issuer: Luxoft
       date: 2021-03
       link: 'https://drive.google.com/file/d/1DbEhFOlK5JvQvPSNC3o9BvEM_JhvjJ36/view'
-      description: |
-        Introductory course on functional safety in automotive systems, focusing on ISO 26262 standards, safety lifecycle, and risk assessment methodologies.
 
     - name: ARC-010 Introduction to Software System Architecture
       issuer: Luxoft
       date: 2021-02
       link: 'https://drive.google.com/file/d/1IYeG2oQZQ6GAizIgn75F6bSzv6l6sSG0/view'
-      description: |
-        Training on fundamental concepts of software system architecture, including architectural patterns, design principles, and best practices for building robust systems.
 
     - name: GE-GR-001 German Language in St. Pete (August 2020)
       issuer: Luxoft
       date: 2020-10
       link: 'https://drive.google.com/file/d/1gcQvp-uwCfCqzaKgEw8yLWyKreQImIud/view'
-      description: |
-        German language course conducted in St. Petersburg, covering intermediate grammar, vocabulary expansion, and conversational practice.
 
     - name: AUT-006 OT Automotive SPICE/ ASPICE and Standard ALOB Process Overview (ALOB DOMS)
       issuer: Luxoft
       date: 2020-07
       link:
-      description: |
-        Overview of Automotive SPICE (ASPICE) standards and processes, focusing on the ALOB DOMS framework for software development and quality assurance in automotive systems.
 
     - name: JDD conference
       issuer: Luxoft
       date: 2020-07
       link:
-      description: |
-        Participation in the JDD conference, focusing on Java development, software architecture, and emerging technologies in the software engineering landscape.
 
     - name: GE-GR-001 German Language in St. Pete (April 2020)
       issuer: Luxoft
       date: 2020-06
       link:
-      description: |
-        German language course conducted in St. Petersburg, covering intermediate grammar, vocabulary expansion, and conversational practice.
 
     - name: LUX-068 Respectful and Constructive Communication
       issuer: Luxoft
       date: 2019-12
       link:
-      description: |
-        Training on respectful and constructive communication techniques, emphasizing effective interpersonal skills and conflict resolution strategies in professional settings.
 
     - name: GE-GR-001 German Language SPb, October 2019
       issuer: Luxoft
       date: 2019-10
       link: 'https://drive.google.com/file/d/1bnRqTyvM9UMpY9qrUYSXcoCpbIzz-oLX/view'
-      description: |
-        German language course conducted in St. Petersburg, covering intermediate grammar, vocabulary expansion, and conversational practice.
 
     - name: German language (SPb May, 2019)
       issuer: Luxoft
       date: 2019-08
       link:
-      description: |
-        German language course conducted in St. Petersburg, covering intermediate grammar, vocabulary expansion, and conversational practice.
 
     - name: ENG-001-General English Course Native Speaker St. Petersburg (February 2019)
       issuer: Luxoft
       date: 2019-06
       link: 'https://drive.google.com/file/d/1FGJQ98ItRG7we8su609PumeLKjdV3Imw/view'
-      description: |
-        General English course conducted by a native speaker in St. Petersburg, focusing on grammar, vocabulary, and conversational skills for professional communication.
 
     - name: German language (SPb 2019)
       issuer: Luxoft
       date: 2019-04
       link:
-      description: |
-        German language course conducted in St. Petersburg, covering intermediate grammar, vocabulary expansion, and conversational practice.
 
     - name: Switch from C++11 to C++14
       issuer: Luxoft
       date: 2018-12
       link:
-      description: |
-        Training on transitioning from C++11 to C++14, covering new language features, best practices, and performance optimizations for modern C++ development.
 
 publication:
   show: false
