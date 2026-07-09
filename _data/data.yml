@@ -25,11 +25,11 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                   https://github.com/Lemiort
+  github:                   Lemiort
   gitlab:                   # https://gitlab.com/<username>
   bitbucket:                # https://bitbucket.com/<username>
   git:                      # selfhost git site link without schema "https://"
-  leetcode:                 https://leetcode.com/u/user0335s/
+  leetcode:                 user0335s
   codeforces:               # https://codeforces.com/profile/<username>
   codewars:                 # https://www.codewars.com/users/<username>
   topcoder:                 # https://profiles.topcoder.com/<username>
@@ -60,7 +60,7 @@ contact:
   producthunt:              # https://www.producthunt.com/@<username>
 
   # cv
-  linkedin:                 https://linkedin.com/in/roman-lvov
+  linkedin:                 roman-lvov
   indeed:                   # https://my.indeed.com/p/<id>
   xing:                     # https://www.xing.com/profile/<username>
   fiverr:                   # https://www.fiverr.com/<username>
