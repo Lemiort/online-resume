@@ -104,7 +104,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Senior C++ Software Developer with 9 years of professional experience designing and delivering high-performance embedded systems, automotive platforms (Adaptive AUTOSAR), and real-time solutions. Deep technical expertise in C++11/14/17, C, and low-level systems programming within QNX and Embedded Linux. Proven track record in core Automotive Diagnostics (leading German OEM), compliance with ASPICE, and rigorous software verification using Absint and Bullseye. Hands-on expertise in modern systems programming (Rust) and low-level graphics architectures (Vulkan API) demonstrated through successful corporate R&D initiatives.
+    Senior C++ Software Developer with 9 years of professional experience designing and delivering high-performance embedded systems, automotive platforms (Adaptive AUTOSAR), and real-time solutions. Deep technical expertise in C++11/14/17/20, C, and low-level systems programming within QNX and Embedded Linux. Proven track record in core Automotive Diagnostics (leading German OEM), compliance with ASPICE, and rigorous software verification using Absint and Bullseye. Hands-on expertise in modern systems programming (Rust) and low-level graphics architectures (Vulkan API) demonstrated through successful corporate R&D initiatives.
 
 experience:
   show: true
@@ -132,7 +132,7 @@ experience:
       role: Senior Software Developer (Automotive Diagnostics)
       location: Belgrade, Serbia
       description: |
-        - Handled integration, testing, and porting of core software frameworks and diagnostic services (PVD, DDM, DiagAPI) to new hardware platforms using QNX and Embedded Linux for VW/Cariad.
+        - Handled integration, testing, and porting of core software frameworks and diagnostic services to new hardware platforms using QNX and Embedded Linux.
         - Designed low-level interfaces for new hardware architectures and implemented specialized software adapters.
         - Utilized Vector ecosystems for Adaptive AUTOSAR applications and performed extensive static code analysis.
         - Managed software release cycles, ensuring strict compliance with quality gates and ASPICE standards (SWE.1-SWE.6, SUP.8).
@@ -144,7 +144,7 @@ experience:
       role: Software Developer (Core Diagnostics & Architecture)
       location: Belgrade, Serbia / St. Petersburg, Russia
       description: |
-        - Analyzed software requirements and developed Software Detailed Designs (SDD) for complex automotive diagnostic services (DiagEDP, DSA 1.2).
+        - Analyzed software requirements and developed Software Detailed Designs (SDD) for complex automotive diagnostic services.
         - Created component architectures and sequence diagrams for complex service logic within predefined interface constraints using PlantUML.
         - Fully implemented application features and system services using embedded C++14.
         - Developed comprehensive unit-test suites using Google Test and mock-based frameworks to simulate system-level calls.
@@ -156,7 +156,7 @@ experience:
       role: Software Developer (Embedded Systems & CI/CD Infrastructure)
       location: St. Petersburg, Russia
       description: |
-        - Developed core features, service architectures, and baselines for early-stage diagnostic service versions (DSA 1.1).
+        - Developed core features, service architectures, and baselines for early-stage diagnostic service versions.
         - Managed the CI infrastructure, maintaining Linux, Docker, and firmware updates for cross-platform SDK support.
         - Wrote and optimized Jenkins-based CI/CD pipelines to streamline automated testing and release workflows.
         - Maintained Hardware-in-the-Loop (HIL) test setups and automated test execution on distributed Raspberry Pi target farms.
@@ -203,7 +203,7 @@ skill:
   description: |
     Core technical stack and domain expertise.
   items:
-    - name: C++ (C++11/14/17)
+    - name: C++ (C++11/14/17/20)
       level: 5
     - name: C Programming Language
       level: 5
@@ -231,7 +231,7 @@ skill:
   groups:
     - name: Programming Languages & Graphics
       item:
-        - C++ (C++11/14/17)
+        - C++ (C++11/14/17/20)
         - C Language
         - Rust
         - Vulkan API
